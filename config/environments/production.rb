@@ -81,4 +81,7 @@ Pinteresting::Application.configure do
    # Required for Heroku
    #note to set this to actual host name
     config.action_mailer.default_url_options = { :host => 'http://shadow-code.herokuapp.com/'}
+
+    
+
 end
